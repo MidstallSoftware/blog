@@ -1,6 +1,6 @@
 ---
 title: "Midstall Software: A Strategic Pivot Toward SDK & Toolchain Consulting"
-date: 2025-08-26T00:00:00-07:00
+date: 2025-08-27T00:00:00-07:00
 tags: ["announcements"]
 type: post
 ---
